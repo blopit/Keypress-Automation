@@ -1,0 +1,7 @@
+pyautogui==0.9.54
+PyQt6==6.5.0
+PyQt6-Qt6==6.5.0
+PyQt6-sip==13.5.1
+pyobjc-framework-Quartz==10.1
+requests==2.31.0
+python-dotenv==1.0.0 
